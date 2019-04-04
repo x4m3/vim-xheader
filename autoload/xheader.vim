@@ -45,7 +45,7 @@ function xheader#addHeader()
 	let l:com3 = s:comStyles[&filetype]['3']
 
 	let l:let = append(0, l:com1)
-	let l:let = append(1, l:com2 . " " . expand('%:r'))
+	let l:let = append(1, l:com2 . " " . expand('%:t'))
 	let l:let = append(2, l:com2)
 	let l:let = append(3, l:com2 . " " . g:xheader_name)
 	let l:let = append(4, l:com2 . " " . s:xheader_get_date())
