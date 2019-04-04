@@ -5,7 +5,7 @@ simple header for vim
 ## install
 
 use your favorite vim plugin manager,
-with the url `https://git.x4m3.rocks/x4m3/vim-xepitech`.  
+with the url `https://git.x4m3.rocks/x4m3/vim-xheader`.
 if you don't use a plugin manager, i recommand
 [vim-plug](https://github.com/junegunn/vim-plug), it's very simple to use.
 
