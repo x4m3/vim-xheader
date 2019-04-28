@@ -4,7 +4,7 @@
 
 " set default settings if they are not set
 if !exists('g:xheader_name')
-	let g:xheader_name = 'Anonymous'
+	let g:xheader_name = 'A talented programmer'
 endif
 
 " dictionary of the comments styles for supported languages
